@@ -16,7 +16,7 @@ This archive was recorded on 2026-10-21. The original 51 files from upstream com
 
 The recipe uses an unpinned base image, upstream branch, and global CLI install.
 It is retained for provenance and has not been rebuilt or executed during the
-retirement preparation. A reproducible reconstruction has not been demonstrated.
+retirement. A reproducible reconstruction has not been demonstrated.
 
 Credentials, environment files, runtime state, and private recovery evidence are
 not part of this public archive. Any future activation requires operator approval
